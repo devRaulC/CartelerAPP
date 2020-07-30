@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "758133691731",
+    "firebase_url": "https://cartelerapp-final-482ca.firebaseio.com",
+    "project_id": "cartelerapp-final-482ca",
+    "storage_bucket": "cartelerapp-final-482ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758133691731:android:b689cc8f67d512dc30bda6",
+        "android_client_info": {
+          "package_name": "com.example.cartelerappfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758133691731-6sbpie608ncesj9g86i092rg5ckh6gqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cartelerappfinal",
+            "certificate_hash": "496554ed78d387a638a2d6f176b1e0407a95ff10"
+          }
+        },
+        {
+          "client_id": "758133691731-msjrh5me5uie25gbeucvhtsv0la80k8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADWFF2b4nbofD70lUZ2ZoX6ZwXicaDu4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758133691731-msjrh5me5uie25gbeucvhtsv0la80k8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
